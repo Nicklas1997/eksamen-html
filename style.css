@@ -1,0 +1,53 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+header {
+    text-align: center
+}
+#div{
+    text-align: center
+}
+div {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4993b2;
+}
+
+p {
+    text-indent: auto;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+    a {
+    text-decoration: none;
+    color: #4993b2;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
